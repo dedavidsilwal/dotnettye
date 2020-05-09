@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4EVE8EkdwVG0dU73SrPiIia29MDLzBZA3/iba46k0Nm2n6tjX8wouupEcaGOMNZpK1gbML65USEDpkEuMFPsA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\microservice\\frontend\\frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.configuration.keyperfile\\3.1.3\\microsoft.extensions.configuration.keyperfile.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\dedav\\.nuget\\packages\\microsoft.tye.extensions.configuration\\0.1.0-alpha.20209.5\\microsoft.tye.extensions.configuration.0.1.0-alpha.20209.5.nupkg.sha512"
+  ],
+  "logs": []
+}
